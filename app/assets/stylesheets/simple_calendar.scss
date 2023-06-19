@@ -1,0 +1,30 @@
+// カレンダーの設定
+.simple-calendar {
+
+table{
+    box-sizing: border-box;
+    max-width: 100%;
+    width: 100%;
+}
+
+  .day {
+    height: 80px;
+  }
+  
+   .day {
+    background: #fff9ee;
+  }
+  
+  .wday-0 {
+    background: #ffeaea;
+    color: #ff505c;
+  }
+  .wday-6 {
+    background: #d4ebff;
+    color: #5984dc;
+  }
+  .today {
+    background: #FFA0A0;
+  }
+}
+
