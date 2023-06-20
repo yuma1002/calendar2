@@ -23,15 +23,17 @@ table{
     background: #d4ebff;
     color: #5984dc;
   }
+  .prev-month {
+    background: #eef3ff;
+    color: #000000;
+  }
+  .next-month {
+    background: #eef3ff;
+    color: #000000;
+  }
   .today {
     background: #FFA0A0;
   }
   
-  .prev-month a {
-    display: none;
-}
-  .next-month a {
-    display: none;
-}
 }
 
